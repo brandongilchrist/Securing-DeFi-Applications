@@ -1,6 +1,7 @@
 ## Securing a DeFi Startup: A Prioritization Plan for Limited Resources 
 
 As Chief Information Security Officer (CISO) of a new DeFi startup running a Decentralized Exchange (DEX), my top priority is to establish a foundation of secure practices that protect our users and our business while considering our limited resources. 
+
 Here's a prioritization plan that a team of 4 can implement effectively, focusing on the most critical aspects:
 
 **Key Principles:**
