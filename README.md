@@ -1,5 +1,4 @@
 # Securing-DeFi-Applications
-Securing DeFi Applications
 
 Alternate Title: Securing a Blockchain Startup: A Comprehensive Guide
 
