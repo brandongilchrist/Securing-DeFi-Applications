@@ -1,7 +1,7 @@
 # Securing-DeFi-Applications
 Securing DeFi Applications
 
-## Alternate Title: Securing a Blockchain Startup: A Comprehensive Guide
+Alternate Title: Securing a Blockchain Startup: A Comprehensive Guide
 
 **Target Audience:** This book is designed for blockchain startup founders, developers, security engineers, and anyone responsible for securing their organization's full stack.
 
