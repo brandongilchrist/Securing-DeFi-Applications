@@ -3,7 +3,7 @@
 * **Chapter 1: Introduction to Full Stack Security**
     * Overview of Full Stack Security in the Blockchain Ecosystem
     * Unique Challenges for Blockchain Startups and Small Teams
-    * The Devastating Impact of Security Breaches in DeFi
+    * List of Security Breaches in DeFi
 * **Chapter 2: Threat Modeling and Attack Surface Mapping**
     * Identifying Assets: A Comprehensive Inventory
         * Using GitHub/GitLab for Managing Code Dependencies
