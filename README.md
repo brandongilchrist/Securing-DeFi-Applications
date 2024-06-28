@@ -14,11 +14,6 @@ Alternate Title: Securing a Blockchain Startup: A Comprehensive Guide
 
 ## Table of Contents
 
-### Preface
-1. Introduction
-2. Acknowledgments
-3. About the Author
-
 ### Part 1: Introduction to Full Stack Security
 1. Overview of Full Stack Security
    - What is Full Stack Security?
